@@ -1,4 +1,4 @@
-package com.battondl.recipeapp;
+package com.battondl;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
